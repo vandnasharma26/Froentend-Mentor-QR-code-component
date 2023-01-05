@@ -1,0 +1,1 @@
+# Froentend-Mentor-QR-code-component
