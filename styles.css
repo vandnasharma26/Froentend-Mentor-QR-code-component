@@ -23,14 +23,14 @@ main {
 }
 
 h1 {
-  color: hsl(220, 15%, 55%);
+  color: hsl(218, 44%, 22%);
   width: 15rem;
   font-size: 20px;
   text-align: center;
 }
 
 p {
-  color: hsl(212, 45%, 89%);
+  color: hsl(220, 15%, 55%);
   width: 15rem;
   font-size: 15px;
   text-align: center;
