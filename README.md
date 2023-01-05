@@ -25,7 +25,7 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/vandnasharma26/Froentend-Mentor-QR-code-component](https://github.com/vandnasharma26/Froentend-Mentor-QR-code-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
